@@ -8,6 +8,8 @@ official guidelines of Postgres Europe, nor of any other Postgres event or
 organization. They are free to use or be modified if you want a starting point
 for your event. Improvements are welcome.
 
+[Room Hosting Guidelines](room_hosting_guidelines.md)
+
 Authors:
 
 * Afsane Anand

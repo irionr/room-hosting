@@ -59,8 +59,8 @@ Collect a bag with items you need while being a room host from the organisers:
 
 ### IMPORTANT:
 
-Avoid reading the first slide: "this is... euh... Joan Jara, and she will be
-talking about... hmm...  the sustainability of PostgreSQL..." Everybody can read
+Avoid reading the first slide: "this is... euh... Simon Riggs, and he will be
+talking about... hmm...  The Next 20 Years..." Everybody can read
 that first slide, so try to care a bit more and learn the name of the speaker,
 and something that resembles the title. Or at least that no one sees you
 reading.

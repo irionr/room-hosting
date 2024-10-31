@@ -49,6 +49,10 @@ Collect a bag with items you need while being a room host from the organisers:
 
 * The room host must be in the room before the speaker arrives to welcome them
 
+* If you are co-hosting the room with another person, settle down for 
+  each one's duties. One can introduce the speaker, and the other takes care
+  of bringing the microphone to the people who ask questions, for example.
+
 * Make sure the water bottle or glass is fresh, and filled
 
 * Check the connection from the laptop to the projector
@@ -133,6 +137,10 @@ actively.
 * Keep track of the time and remind the speaker how much time is left using the
   “time tracker” cue cards.
 
+* Take care of closing the room doors when people get into the room after the
+  talk has started. This can be handled better when more than one person hosts
+  the room.
+
 ## End of the presentation
 
 * If the speaker doesn't show any sign of finishing in the agreed time: stand up
@@ -160,9 +168,11 @@ actively.
   give other people a chance to ask questions. Remember that it's you who
   controls the room.
 
-* After the questions are over (or if there is no more time), tell the audience
-  what is coming next (next presentation, coffee-break or lunch, etc), and close
-  the session asking for another applause for the speaker.
+* After the questions are over (or if there is no more time), remind the audience
+  about giving feedback to the talk/speaker from the app/website if applicable.
+  
+* In the end tell the audience what is coming next (next presentation, coffee break
+  or lunch, etc), and close the session asking for another applause for the speaker.
 
 * Help the speaker uninstall everything and make sure no one forgets anything.
 
